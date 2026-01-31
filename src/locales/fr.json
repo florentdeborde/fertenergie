@@ -1,0 +1,437 @@
+{
+    "pages": {
+        "home": {
+            "title": "Accueil",
+            "to": "/",
+            "element": "Home",
+            "logo": true,
+            "content": {
+                "title": "Ferténergie",
+                "text": "Un collectif citoyen rassemblé autour du projet de développement des ENR dans la ville de La Ferté Macé depuis 2020."
+            },
+            "feature_section": {
+                "title": "Nos centrales photovoltaïques",
+                "button": "Voir nos réalisations",
+                "items": [
+                    {
+                        "subtitle": "Collaboratif et durable",
+                        "paragraphs": [
+                            "Nous sommes convaincus que les projets collaboratifs sont un levier essentiel pour accélérer la transition écologique."
+                        ]
+                    }
+                ]
+            },
+            "feature_section_news": {
+                "title": "Suivre l’évolution de notre activité",
+                "button": "Voir l'actualité",
+                "items": [
+                    {
+                        "subtitle": "Réunions et rencontres",
+                        "paragraphs": [
+                            "Ferténergie organise régulièrement des réunions avec ses membres pour discuter de la production des sites existants, de l'avancement des projets et des décisions collectives."
+                        ]
+                    },
+                    {
+                        "subtitle": "Nouveaux projets",
+                        "paragraphs": [
+                            "Nous organisons aussi des rencontres avec des parties externes pour échanger autour de nouveaux projets ENR."
+                        ]
+                    }
+                ]
+            },
+            "hero_section": {
+                "title": "Une expertise forte acquise au fil des années",
+                "short_title": "Une expertise forte",
+                "text": "Accompagnement dans la réappropriation de l'énergie par les citoyens.",
+                "buttonText": "Nos compétences"
+            },
+            "maintenance": {
+                "title": "Le site est en phase de finalisation.",
+                "text": "Nous mettons tout en œuvre pour t'offrir la meilleure expérience. Merci de revenir un peu plus tard."
+            }
+        },
+        "projects": {
+            "title": "Réalisations",
+            "to": "/projects",
+            "element": "Projects",
+            "logo": false,
+            "menu_section": {
+                "title": "",
+                "items": [
+                    {
+                        "subtitle": "Paul Souvray",
+                        "target": "psouvray"
+                    },
+                    {
+                        "subtitle": "Jacques Prévert",
+                        "target": "jprevert"
+                    },
+                    {
+                        "subtitle": "Lignou",
+                        "target": "lignou"
+                    }
+                ]
+            },
+            "feature_section_intro": {
+                "title": "3 installations PV, 81 kWc, 450 m², 103 k€ investis",
+                "items": []
+            },
+            "feature_section_PS": {
+                "title": "Paul Souvray",
+                "items": [
+                    {
+                        "subtitle": "Description de l'installation",
+                        "paragraphs": [
+                          "Mise en service : Novembre 2021",
+                          "Surface : 200m²",
+                          "Centrale de 36 kWc : 120 modules de 300Wc"
+                        ]
+                    },
+                    {
+                        "subtitle": "Quelques chiffres",
+                        "paragraphs": [
+                            "Investissement : 40 000 €",
+                            "Production attendue : 41 000 kWh/an",
+                            "Recettes prévues : 4 900 €/an"
+                        ]
+                    }
+                ]
+            },
+            "feature_section_JP": {
+                "title": "Jacques Prévert",
+                "items": [
+                    {
+                        "subtitle": "Description de l'installation",
+                        "paragraphs": [
+                          "Mise en service : Janvier 2022",
+                          "Surface : 200m²",
+                          "Centrale de 36 kWc : 120 modules de 300Wc"
+                        ]
+                    },
+                    {
+                        "subtitle": "Quelques chiffres",
+                        "paragraphs": [
+                        "Investissement : 50 000 €",
+                        "Production attendue : 40 000 kWh/an",
+                        "Recettes prévues : 4 700 €/an"
+                        ]
+                    }
+                ]
+            },
+            "feature_section_LI": {
+                "title": "Lignou",
+                "items": [
+                    {
+                        "subtitle": "Description de l'installation",
+                        "paragraphs": [
+                          "Mise en service : Avril 2021",
+                          "Surface : 50m²",
+                          "Centrale de 9 kWc : 28 modules 320Wc"
+                        ]
+                    },
+                    {
+                        "subtitle": "Quelques chiffres",
+                        "paragraphs": [
+                        "Investissement : 13 000 €",
+                        "Production attendue : 9 700 kWh/an",
+                        "Recettes prévues : 1 500 €/an"
+                        ]
+                    }
+                ]
+            }
+        },
+        "skills": {
+            "title": "Compétences",
+            "to": "/skills",
+            "element": "Skills",
+            "logo": false,
+            "texts": {},
+            "menu_section": {
+                "title": "",
+                "items": [
+                    {
+                        "subtitle": "Co-construction",
+                        "target": "q-ei"
+                    },
+                    {
+                        "subtitle": "Pilotage et gestion",
+                        "target": "q-dp"
+                    }
+                ]
+            },
+            "feature_section_1": {
+                "title": "Co-construction de projets ENR avec les collectivités",
+                "items": [
+                    {
+                        "subtitle": "Partenariat collectivité-Ferténergie",
+                        "paragraphs": [
+                        "Votre collectivité : ",
+                        "- Dispose de toits existants ou en projet, qui pourraient accueillir des installations solaires.",
+                        "- Connait des projets de batiments d'entreprises et de particulier",
+                        "- Veut proposer à ses citoyens de participer à un projet pour la transition énergétique",
+                        "- Veut s'engager dans des projets avec un ou plusieurs élus"
+                        ]
+                    },                    
+                    {
+                        "subtitle": "Un parcours structuré pour réussir",
+                        "paragraphs": [
+                          "Ferténergie : ",
+                          "- Proposera un pré diagnostic de différents points pour vérifier la faisabilité du projet (convention, point d'assurance, caution de prêt, plan des bâtiments, travaux d'aménagement aux abords ...)",
+                          "",
+                          "Votre collectivité : ",
+                          "- Devra prendre des délibérations adaptées au partenariat (mise à disposition de toitures)",
+                          "- Peut profiter du projet pour sensibiliser les familles, entreprises et les enfants de la collectivité à la sobriété énergétique (défi énergie positive, management énergétique)"
+                          
+                        ]
+                    }
+                ]
+            },
+            "feature_section_2": {
+                "title": "Pilotage et gestion de projets citoyens",
+                "items": [
+                    {
+                    "subtitle": "Maîtrise des étapes de développement d’un projet",
+                    "paragraphs": [
+                        "Un projet citoyen en énergies renouvelables passe par plusieurs étapes clés : l'identification du site, les études de faisabilité, le montage financier, la concertation locale, les démarches administratives et enfin la mise en service de l'installation."
+                    ]
+                    },
+                    {
+                    "subtitle": "Un réseau d’acteurs clés mobilisables",
+                    "paragraphs": [
+                        "La réussite d’un projet repose aussi sur le bon réseau : collectivités locales, partenaires techniques et citoyens engagés sont tous essentiels."
+                    ]
+                    },
+                    {
+                    "subtitle": "Identification et anticipation des problèmes",
+                    "paragraphs": [
+                        "Anticiper les difficultés potentielles est essentiel pour garantir la réussite d’un projet citoyen, et grâce à notre expérience, nous savons aujourd’hui en identifier les principales dès les premières étapes."
+                    ]
+                    }
+                ]
+            }
+        },
+        "news": {
+            "title": "Actualités",
+            "to": "/news",
+            "element": "News",
+            "logo": false,
+            "texts": {},
+            "posts": [
+                {
+                "image": "/images/gallery/photo8.jpg",
+                "title": "Assemblée Générale Ordinaire de Ferténergie 2025",
+                "description": "Elle a été tenue le 29 mars 2025 à La Ferté Macé.",
+                "detailedDescription": "",
+                "link": "#AGO2025",
+                "date": "30 mars 2025"
+                },
+                {
+                "image": "/images/projects/2021-09-05_PS.jpg",
+                "title": "Production 2024 de la centrale Paul Souvray",
+                "description": "En 2024, la centrale a produit 34 070 kWh d’électricité solaire.",
+                "detailedDescription": "",
+                "link": "#PS2024",
+                "date": "02 février 2025"
+                },
+                {
+                "image": "/images/projects/2023_JP.jpg",
+                "title": "Production 2024 du site Jacques Prévert",
+                "description": "Le site a généré 33 114 kWh en 2024 grâce à l’énergie solaire.",
+                "detailedDescription": "",
+                "link": "#JP2024",
+                "date": "20 janvier 2025"
+                },
+                {
+                "image": "/images/projects/2021-03-23_L.jpg",
+                "title": "Production 2024 de l'installation à Lignou",
+                "description": "Production 2024 : 8 380 kWh d’électricité issue du photovoltaïque.",
+                "detailedDescription": "",
+                "link": "#LI2024",
+                "date": "10 janvier 2025"
+                },
+                {
+                "image": "/images/gallery/photo8.jpg",
+                "title": "Assemblée Générale Ordinaire de Ferténergie 2024",
+                "description": "Elle a été tenue le 15 juin 2024 à La Ferté Macé.",
+                "detailedDescription": "",
+                "link": "#AGO2024",
+                "date": "17 juin 2024"
+                },
+                {
+                "image": "/images/projects/2021-09-05_PS.jpg",
+                "title": "Production 2023 de la centrale Paul Souvray",
+                "description": "En 2023, la centrale a produit 39 621 kWh d’électricité solaire.",
+                "detailedDescription": "",
+                "link": "#PS2023",
+                "date": "04 février 2024"
+                },
+                {
+                "image": "/images/projects/2023_JP.jpg",
+                "title": "Production 2023 du site Jacques Prévert",
+                "description": "Le site a généré 38 478 kWh en 2023 grâce à l’énergie solaire.",
+                "detailedDescription": "",
+                "link": "#JP2023",
+                "date": "26 janvier 2024"
+                },
+                {
+                "image": "/images/projects/2021-03-23_L.jpg",
+                "title": "Production 2023 de l'installation à Lignou",
+                "description": "Production 2023 : 9 432 kWh d’électricité issue du photovoltaïque.",
+                "detailedDescription": "",
+                "link": "#LI2023",
+                "date": "14 janvier 2024"
+                },
+                {
+                "image": "/images/gallery/photo8.jpg",
+                "title": "Assemblée Générale Ordinaire de Ferténergie 2023",
+                "description": "Elle a été tenue le 10 juin 2023 à La Ferté Macé.",
+                "detailedDescription": "",
+                "link": "#AGO2023",
+                "date": "12 juin 2023"
+                },
+                {
+                "image": "/images/projects/2021-09-05_PS.jpg",
+                "title": "Production 2022 de la centrale Paul Souvray",
+                "description": "En 2022, la centrale a produit 44 348 kWh d’électricité solaire.",
+                "detailedDescription": "",
+                "link": "#PS2022",
+                "date": "01 février 2023"
+                },
+                {
+                "image": "/images/projects/2023_JP.jpg",
+                "title": "Production 2022 du site Jacques Prévert",
+                "description": "Le site a généré 39 756 kWh en 2022 grâce à l’énergie solaire.",
+                "detailedDescription": "",
+                "link": "#JP2022",
+                "date": "25 janvier 2023"
+                },
+                {
+                "image": "/images/projects/2021-03-23_L.jpg",
+                "title": "Production 2022 de l'installation à Lignou",
+                "description": "Production 2022 : 10 026 kWh d’électricité issue du photovoltaïque.",
+                "detailedDescription": "",
+                "link": "#LI2022",
+                "date": "12 janvier 2023"
+                },
+                {
+                "image": "/images/gallery/photo8.jpg",
+                "title": "Assemblée Générale Ordinaire de Ferténergie 2022",
+                "description": "Elle a été tenue le 07 mai 2023 à La Ferté Macé.",
+                "detailedDescription": "",
+                "link": "#AGO2022",
+                "date": "09 mai 2022"
+                }
+            ]
+        },
+        "gallery": {
+            "title": "Galerie",
+            "to": "/gallery",
+            "element": "Gallery"
+        },
+        "about_us": {
+            "title": "Infos & Contact",
+            "to": "/about-us",
+            "element": "AboutUs",
+            "texts": [
+                "Nous avons pour objectif de développer des projets photovoltaïques à la fois sur des toitures privées, publiques, et sur des terrains disponibles dans la région."
+            ],
+            "menu_section": {
+                "title": "",
+                "items": [
+                    {
+                        "subtitle": "Qui sommes-nous?",
+                        "target": "history"
+                    },
+                    {
+                        "subtitle": "Contact",
+                        "target": "contact"
+                    }
+                ]
+            },
+            "feature_section": {
+                "title": "Qui sommes-nous?",
+                "button": "",
+                "items": [
+                    {
+                        "subtitle": "Constitution de la SAS Ferténergie",
+                        "paragraphs": [
+                            "- Capital social initial de 10 100 € porté par un conseil de gestion de 8 sociétaires.",
+                            "- 35 sociétaires au 6 décembre 2020 pour un capital de 26 000 €"
+                        ]
+                    },
+                    {
+                        "subtitle": "Les sociétaires",
+                        "paragraphs": [
+                            "- Souscrire au moins à une part de 120€.",
+                            "- Chaque associé dispose d'une voix quel que soit le montant de sa participation au capital.",
+                            "- Personne ne peut détenir plus de 20% du capital social."
+                        ]
+                    },
+                    {
+                        "subtitle": "Premières réalisations en 2021",
+                        "paragraphs": [
+                            "- 450m² de PV sur 3 sites",
+                            "- 81 kWc",
+                            "- 103 k€ d'investissements"
+                        ]
+                    }
+                ]
+            },
+            "feature_section_contact": {
+                "title": "Contact",
+                "button": "",
+                "items": [
+                    {
+                        "subtitle": "Email",
+                        "paragraphs": [
+                            "contact@fertenergie.fr"
+                        ]
+                    },
+                    {
+                        "subtitle": "Téléphone",
+                        "paragraphs": [
+                            "+33 6 70 77 65 61"
+                        ]
+                    },
+                    {
+                        "subtitle": "Adresse",
+                        "paragraphs": [
+                            "12 Place du Général de Gaulle, 61600 La Ferté Macé"
+                        ]
+                    }
+                ]
+            }
+        },
+        "more_info": {
+            "title": "Plus d'infos",
+            "hide": true,
+            "submenus": {}
+        }
+    },
+    "footer": {
+        "title": "Contenu",
+        "address": "12 Place du Général de Gaulle, 61600\nLa Ferté Macé",
+        "phone": "+33670776561",
+        "email": "contact@fertenergie.fr",
+        "legal_information": "Mentions légales",
+        "partners_title": "Nos partenaires",
+        "partners": [
+            {
+                "href": "https://www.enercoop.fr/",
+                "src": "/images/logo/extern/enercoop.jpg"
+            },
+            {
+                "href": "https://energie-partagee.org/",
+                "src": "/images/logo/extern/energie_partagee.jpg"
+            },
+            {
+                "href": "https://www.7vents.fr/une-energie-citoyenne-et-durable-en-normandie/",
+                "src": "/images/logo/extern/eclore.jpg"
+            },
+            {
+                "href": "https://lafertemace.fr/",
+                "src": "/images/logo/extern/la_ferte_mace.jpg"
+            }
+        ]
+    }
+}

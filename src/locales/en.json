@@ -1,0 +1,436 @@
+{
+    "pages": {
+        "home": {
+            "title": "Home",
+            "to": "/",
+            "element": "Home",
+            "logo": true,
+            "content": {
+                "title": "Ferténergie",
+                "text": "A citizen collective gathered around the project of developing renewable energy in the city of La Ferté Macé since 2020."
+            },
+            "feature_section": {
+                "title": "Our photovoltaic plants",
+                "button": "See our achievements",
+                "items": [
+                    {
+                        "subtitle": "Collaborative and sustainable",
+                        "paragraphs": [
+                            "We are convinced that collaborative projects are a key lever to accelerate the ecological transition."
+                        ]
+                    }
+                ]
+            },
+            "feature_section_news": {
+                "title": "Follow the evolution of our activity",
+                "button": "See the news",
+                "items": [
+                    {
+                        "subtitle": "Meetings and gatherings",
+                        "paragraphs": [
+                            "Ferténergie regularly organizes meetings with its members to discuss the production of existing sites, the progress of projects, and collective decisions."
+                        ]
+                    },
+                    {
+                        "subtitle": "New projects",
+                        "paragraphs": [
+                            "We also organize meetings with external parties to exchange ideas about new renewable energy projects."
+                        ]
+                    }
+                ]
+            },
+            "hero_section": {
+                "title": "Strong expertise built over the years",
+                "short_title": "Strong expertise",
+                "text": "Supporting citizens in reclaiming energy.",
+                "buttonText": "Our skills"
+            },
+            "maintenance": {
+                "title": "The site is being finalized.",
+                "text": "We are doing everything to offer you the best experience. Please check back later."
+            }
+        },
+        "projects": {
+            "title": "Projects",
+            "to": "/projects",
+            "element": "Projects",
+            "logo": false,
+            "menu_section": {
+                "title": "",
+                "items": [
+                    {
+                        "subtitle": "Paul Souvray",
+                        "target": "psouvray"
+                    },
+                    {
+                        "subtitle": "Jacques Prévert",
+                        "target": "jprevert"
+                    },
+                    {
+                        "subtitle": "Lignou",
+                        "target": "lignou"
+                    }
+                ]
+            },
+            "feature_section_intro": {
+                "title": "3 PV installations, 81 kWp, 450 m², €103k invested",
+                "items": []
+            },
+            "feature_section_PS": {
+                "title": "Paul Souvray",
+                "items": [
+                    {
+                        "subtitle": "Installation description",
+                        "paragraphs": [
+                            "Commissioned: November 2021",
+                            "Surface area: 200 m²",
+                            "36 kWp plant: 120 modules of 300 Wp each"
+                        ]
+                    },
+                    {
+                        "subtitle": "Key figures",
+                        "paragraphs": [
+                            "Investment: €40,000",
+                            "Expected production: 41,000 kWh/year",
+                            "Expected revenue: €4,900/year"
+                        ]
+                    }
+                ]
+            },
+            "feature_section_JP": {
+                "title": "Jacques Prévert",
+                "items": [
+                    {
+                        "subtitle": "Installation description",
+                        "paragraphs": [
+                            "Commissioned: January 2022",
+                            "Surface area: 200 m²",
+                            "36 kWp plant: 120 modules of 300 Wp each"
+                        ]
+                    },
+                    {
+                        "subtitle": "Key figures",
+                        "paragraphs": [
+                            "Investment: €50,000",
+                            "Expected production: 40,000 kWh/year",
+                            "Expected revenue: €4,700/year"
+                        ]
+                    }
+                ]
+            },
+            "feature_section_LI": {
+                "title": "Lignou",
+                "items": [
+                    {
+                        "subtitle": "Installation description",
+                        "paragraphs": [
+                            "Commissioned: April 2021",
+                            "Surface area: 50 m²",
+                            "9 kWp plant: 28 modules of 320 Wp each"
+                        ]
+                    },
+                    {
+                        "subtitle": "Key figures",
+                        "paragraphs": [
+                            "Investment: €13,000",
+                            "Expected production: 9,700 kWh/year",
+                            "Expected revenue: €1,500/year"
+                        ]
+                    }
+                ]
+            }
+        },
+        "skills": {
+            "title": "Skills",
+            "to": "/skills",
+            "element": "Skills",
+            "logo": false,
+            "texts": {},
+            "menu_section": {
+                "title": "",
+                "items": [
+                    {
+                        "subtitle": "Co-construction",
+                        "target": "q-ei"
+                    },
+                    {
+                        "subtitle": "Management and coordination",
+                        "target": "q-dp"
+                    }
+                ]
+            },
+            "feature_section_1": {
+                "title": "Co-developing renewable energy projects with communities",
+                "items": [
+                    {
+                        "subtitle": "Community-Ferténergie partnership",
+                        "paragraphs": [
+                            "Your community:",
+                            "- Has existing or planned roofs suitable for solar installations.",
+                            "- Is aware of private and business building projects.",
+                            "- Wants to involve its citizens in an energy transition project.",
+                            "- Wants to commit to projects with one or more elected officials."
+                        ]
+                    },
+                    {
+                        "subtitle": "A structured approach for success",
+                        "paragraphs": [
+                            "Ferténergie:",
+                            "- Will provide a pre-assessment of various points to check project feasibility (agreements, insurance issues, loan guarantees, building plans, surrounding works, etc.).",
+                            "",
+                            "Your community:",
+                            "- Will need to make appropriate decisions to enable the partnership (making roofs available).",
+                            "- Can use the project to raise awareness among families, businesses, and children about energy efficiency (positive energy challenge, energy management)."
+                        ]
+                    }
+                ]
+            },
+            "feature_section_2": {
+                "title": "Management and coordination of citizen projects",
+                "items": [
+                    {
+                        "subtitle": "Mastering the key stages of project development",
+                        "paragraphs": [
+                            "A citizen renewable energy project involves several key stages: site identification, feasibility studies, financial planning, local consultation, administrative procedures, and finally commissioning the installation."
+                        ]
+                    },
+                    {
+                        "subtitle": "A network of key stakeholders",
+                        "paragraphs": [
+                            "The success of a project also depends on the right network: local authorities, technical partners, and committed citizens are all essential."
+                        ]
+                    },
+                    {
+                        "subtitle": "Identifying and anticipating problems",
+                        "paragraphs": [
+                            "Anticipating potential difficulties is crucial to ensuring a project's success. Thanks to our experience, we can now identify the main risks from the very first stages."
+                        ]
+                    }
+                ]
+            }
+        },
+        "news": {
+            "title": "News",
+            "to": "/news",
+            "element": "News",
+            "logo": false,
+            "texts": {},
+            "posts": [
+                {
+                    "image": "/images/gallery/photo8.jpg",
+                    "title": "Ferténergie Annual General Meeting 2025",
+                    "description": "Held on March 29, 2025 in La Ferté Macé.",
+                    "detailedDescription": "",
+                    "link": "#AGO2025",
+                    "date": "March 30, 2025"
+                },
+                {
+                    "image": "/images/projects/2021-09-05_PS.jpg",
+                    "title": "2024 Production of the Paul Souvray plant",
+                    "description": "In 2024, the plant produced 34,070 kWh of solar electricity.",
+                    "detailedDescription": "",
+                    "link": "#PS2024",
+                    "date": "February 2, 2025"
+                },
+                {
+                    "image": "/images/projects/2023_JP.jpg",
+                    "title": "2024 Production of the Jacques Prévert site",
+                    "description": "The site generated 33,114 kWh in 2024 thanks to solar energy.",
+                    "detailedDescription": "",
+                    "link": "#JP2024",
+                    "date": "January 20, 2025"
+                },
+                {
+                    "image": "/images/projects/2021-03-23_L.jpg",
+                    "title": "2024 Production of the Lignou installation",
+                    "description": "2024 production: 8,380 kWh of photovoltaic electricity.",
+                    "detailedDescription": "",
+                    "link": "#LI2024",
+                    "date": "January 10, 2025"
+                },
+                {
+                    "image": "/images/gallery/photo8.jpg",
+                    "title": "Ferténergie Annual General Meeting 2024",
+                    "description": "Held on June 15, 2024 in La Ferté Macé.",
+                    "detailedDescription": "",
+                    "link": "#AGO2024",
+                    "date": "June 17, 2024"
+                },
+                {
+                    "image": "/images/projects/2021-09-05_PS.jpg",
+                    "title": "2023 Production of the Paul Souvray plant",
+                    "description": "In 2023, the plant produced 39,621 kWh of solar electricity.",
+                    "detailedDescription": "",
+                    "link": "#PS2023",
+                    "date": "February 4, 2024"
+                },
+                {
+                    "image": "/images/projects/2023_JP.jpg",
+                    "title": "2023 Production of the Jacques Prévert site",
+                    "description": "The site generated 38,478 kWh in 2023 thanks to solar energy.",
+                    "detailedDescription": "",
+                    "link": "#JP2023",
+                    "date": "January 26, 2024"
+                },
+                {
+                    "image": "/images/projects/2021-03-23_L.jpg",
+                    "title": "2023 Production of the Lignou installation",
+                    "description": "2023 production: 9,432 kWh of photovoltaic electricity.",
+                    "detailedDescription": "",
+                    "link": "#LI2023",
+                    "date": "January 14, 2024"
+                },
+                {
+                    "image": "/images/gallery/photo8.jpg",
+                    "title": "Ferténergie Annual General Meeting 2023",
+                    "description": "Held on June 10, 2023 in La Ferté Macé.",
+                    "detailedDescription": "",
+                    "link": "#AGO2023",
+                    "date": "June 12, 2023"
+                },
+                {
+                    "image": "/images/projects/2021-09-05_PS.jpg",
+                    "title": "2022 Production of the Paul Souvray plant",
+                    "description": "In 2022, the plant produced 44,348 kWh of solar electricity.",
+                    "detailedDescription": "",
+                    "link": "#PS2022",
+                    "date": "February 1, 2023"
+                },
+                {
+                    "image": "/images/projects/2023_JP.jpg",
+                    "title": "2022 Production of the Jacques Prévert site",
+                    "description": "The site generated 39,756 kWh in 2022 thanks to solar energy.",
+                    "detailedDescription": "",
+                    "link": "#JP2022",
+                    "date": "January 25, 2023"
+                },
+                {
+                    "image": "/images/projects/2021-03-23_L.jpg",
+                    "title": "2022 Production of the Lignou installation",
+                    "description": "2022 production: 10,026 kWh of photovoltaic electricity.",
+                    "detailedDescription": "",
+                    "link": "#LI2022",
+                    "date": "January 12, 2023"
+                },
+                {
+                    "image": "/images/gallery/photo8.jpg",
+                    "title": "Ferténergie Annual General Meeting 2022",
+                    "description": "Held on May 7, 2022 in La Ferté Macé.",
+                    "detailedDescription": "",
+                    "link": "#AGO2022",
+                    "date": "May 9, 2022"
+                }
+            ]
+        },
+        "gallery": {
+            "title": "Gallery",
+            "to": "/gallery",
+            "element": "Gallery"
+        },
+        "about_us": {
+            "title": "Info & Contact",
+            "to": "/about-us",
+            "element": "AboutUs",
+            "texts": [
+                "Our goal is to develop photovoltaic projects on both private and public roofs, as well as on available land in the region."
+            ],
+            "menu_section": {
+                "title": "",
+                "items": [
+                    {
+                        "subtitle": "Who are we?",
+                        "target": "history"
+                    },
+                    {
+                        "subtitle": "Contact",
+                        "target": "contact"
+                    }
+                ]
+            },
+            "feature_section": {
+                "title": "Who are we?",
+                "button": "",
+                "items": [
+                    {
+                        "subtitle": "Creation of SAS Ferténergie",
+                        "paragraphs": [
+                            "- Initial share capital of €10,100 supported by a management board of 8 members.",
+                            "- 35 members as of December 6, 2020 with capital of €26,000"
+                        ]
+                    },
+                    {
+                        "subtitle": "The members",
+                        "paragraphs": [
+                            "- Subscribe to at least one share of €120.",
+                            "- Each member has one vote regardless of their shareholding.",
+                            "- No one can hold more than 20% of the share capital."
+                        ]
+                    },
+                    {
+                        "subtitle": "First achievements in 2021",
+                        "paragraphs": [
+                            "- 450 m² of PV across 3 sites",
+                            "- 81 kWp",
+                            "- €103k invested"
+                        ]
+                    }
+                ]
+            },
+            "feature_section_contact": {
+                "title": "Contact",
+                "button": "",
+                "items": [
+                    {
+                        "subtitle": "Email",
+                        "paragraphs": [
+                            "contact@fertenergie.fr"
+                        ]
+                    },
+                    {
+                        "subtitle": "Phone",
+                        "paragraphs": [
+                            "+33 6 70 77 65 61"
+                        ]
+                    },
+                    {
+                        "subtitle": "Address",
+                        "paragraphs": [
+                            "12 Place du Général de Gaulle, 61600 La Ferté Macé"
+                        ]
+                    }
+                ]
+            }
+        },
+        "more_info": {
+            "title": "More info",
+            "hide": true,
+            "submenus": {}
+        }
+    },
+    "footer": {
+        "title": "Content",
+        "address": "12 Place du Général de Gaulle, 61600\nLa Ferté Macé",
+        "phone": "+33670776561",
+        "email": "contact@fertenergie.fr",
+        "legal_information": "Legal notice",
+        "partners_title": "Our partners",
+        "partners": [
+            {
+                "href": "https://www.enercoop.fr/",
+                "src": "/images/logo/extern/enercoop.jpg"
+            },
+            {
+                "href": "https://energie-partagee.org/",
+                "src": "/images/logo/extern/energie_partagee.jpg"
+            },
+            {
+                "href": "https://www.7vents.fr/une-energie-citoyenne-et-durable-en-normandie/",
+                "src": "/images/logo/extern/eclore.jpg"
+            },
+            {
+                "href": "https://lafertemace.fr/",
+                "src": "/images/logo/extern/la_ferte_mace.jpg"
+            }
+        ]
+    }
+}
