@@ -1,23 +1,22 @@
 # 🌞 Fertenergie
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![React: 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![Vite: 7.3.1](https://img.shields.io/badge/Vite-7.3.1-646CFF?logo=vite&logoColor=white)
+
 **A modern React SPA for a citizen collective dedicated to renewable energy development.**
 This project showcases local photovoltaic installations and collective actions
 
----
 ## 📑 Table of Contents
 
-- [🚀 Installation](#-installation)
-- [⚙️ Project Structure](#️-project-structure)
+- [💻 Installation](#-installation)
+- [📂 Project Structure](#️-project-structure)
 - [🪄 Customization Guide](#-customization-guide-for-cloning-or-adapting)
-- [🌍 Sitemap](#-sitemap)
 - [🚢 Deployment](#-deployment)
 - [🧱 Tech Stack](#-tech-stack)
-- [👤 Author](#-author)
 - [📜 License](#-license)
 
----
-
-## 🚀 Installation
+## 💻 Installation
 
 1. **Clone the repository:**
    ```bash
@@ -30,13 +29,11 @@ This project showcases local photovoltaic installations and collective actions
    ```
 3. **Run application:**
    ```bash
-   npm run start
+   npm run dev
    ```
-The site will be available at http://localhost:3000
+The site will be available at http://localhost:5173
 
----
-
-## ⚙️ Project Structure
+## 📂 Project Structure
 
 | Folder / File      | Description                               |
 | ------------------ | ----------------------------------------- |
@@ -46,8 +43,6 @@ The site will be available at http://localhost:3000
 | `/src/pages/`      | Page-level components                     |
 | `/src/utils/`      | Helper and utility functions              |
 | `/src/config.js`   | Centralized configuration file            |
-
----
 
 ## 🪄 Customization Guide (for cloning or adapting)
 When duplicating this project for another practitioner or website, you’ll mainly need to update:
@@ -66,35 +61,17 @@ When duplicating this project for another practitioner or website, you’ll main
 
 🌳 Menu structure is defined in translation files
 
----
-
-## 🌍 Sitemap
-The sitemap file (`/public/sitemap.xml`) lists all public pages and internal sections for SEO indexing.  
-Each `<url>` entry corresponds to a route or an internal anchor.
-
----
-
 ## 🚢 Deployment
 This project is optimized for static deployment.  
 You can preview or host it using Vercel, Netlify, or any static hosting provider.
 
----
-
 ## 🧱 Tech Stack
 - **React 19** (`react`, `react-dom`) — Core framework
 - **React Router 7** (`react-router-dom`) — Routing
-- **Create React App** (`react-scripts`) — Project scaffolding & build tooling
+- **Vite 7** — Next-generation frontend build tool & dev server
 - **Material UI v6** — UI components & styling
 - **i18next** — Internationalization
 - **Lucide React** — Icon library
-
----
-
-## 👤 Author
-GitHub: [https://github.com/florentdeborde](https://github.com/florentdeborde)  
-Website: [https://fertenergie.fr/](https://fertenergie.fr/) 
-
----
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

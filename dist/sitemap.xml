@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Page d'accueil -->
+    <url>
+        <loc>https://fertenergie.fr/</loc>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Réalisations -->
+    <url>
+        <loc>https://fertenergie.fr/projects</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://fertenergie.fr/projects#psouvray</loc>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://fertenergie.fr/projects#jprevert</loc>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://fertenergie.fr/projects#lignou</loc>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Compétences -->
+    <url>
+        <loc>https://fertenergie.fr/skills</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://fertenergie.fr/skills#q-ei</loc>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://fertenergie.fr/skills#q-dp</loc>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Actualités -->
+    <url>
+        <loc>https://fertenergie.fr/news</loc>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Galerie -->
+    <url>
+        <loc>https://fertenergie.fr/gallery</loc>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Infos & Contact -->
+    <url>
+        <loc>https://fertenergie.fr/about-us</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://fertenergie.fr/about-us#history</loc>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://fertenergie.fr/about-us#contact</loc>
+        <priority>0.6</priority>
+    </url>
+</urlset>
