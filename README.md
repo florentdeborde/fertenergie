@@ -46,18 +46,22 @@ The site will be available at http://localhost:5173
 
 ## 🪄 Customization Guide (for cloning or adapting)
 When duplicating this project for another practitioner or website, you’ll mainly need to update:
-| File / Folder                               | What to update                               |
-| ------------------------------------------- | -------------------------------------------- |
-| `/public/images/`                           | Update logos and site images                 |
-| `/public/favicon.ico`                       | Update favicons                              |
-| `/public/index.html`                        | Update metadata, title, and banner           |
-| `/public/manifest.json`                     | Update name and shortname                    |
-| `/public/sitemap.xml`                       | Update domain and section anchors            |
-| `/src/locales/`                             | Translations for other languages             |
-| `/src/pages/`                               | Page content and layouts                     |
-| `/src/config.js`                            | Update parameters                            |
-| `/package.json`                             | Project identity (name, version)             |
-| `/README.md`                                | Project-specific documentation               |
+
+| File / Folder                               | What to update                                               |
+| ------------------------------------------- | ------------------------------------------------------------ |
+| `/public/favicon.ico`, `.svg`, `-96x96.png` | Update all favicon formats to match the new logo             |
+| `/public/apple-touch-icon.png`              | Update the high-resolution icon (180x180) for iOS devices    |
+| `/public/web-app-manifest-*.png`            | Update the PWA icons (192px and 512px) for mobile install    |
+| `/public/site.webmanifest`                  | Update site name, short_name, and paths to manifest icons    |
+| `/public/index.html`                        | Update metadata (title, description), and icon link tags     |
+| `/public/og-image.png`                      | Update image and social sharing in index.html                |
+| `/public/images/`                           | Update site images (logo, ...)                               |
+| `/public/sitemap.xml` & `robots.txt`        | Update domain URL and crawl rules for SEO                    |
+| `/src/locales/`                             | Update translations for other languages (i18n)               |
+| `/src/pages/`                               | Customize page content, layouts, and components              |
+| `/src/config.js`                            | Update global parameters and API endpoints                   |
+| `/package.json`                             | Update project identity (name, version, author)              |
+| `/README.md`                                | Project-specific documentation and badges                    |
 
 🌳 Menu structure is defined in translation files
 
