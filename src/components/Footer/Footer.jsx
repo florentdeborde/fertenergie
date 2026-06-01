@@ -1,9 +1,15 @@
 import { Link, useNavigate } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 import config from "../../config";
 import './Footer.css';
 
 const Footer = ({t, pages}) => {
   const navigate = useNavigate();
+  const { i18n } = useTranslation();
+  const fallbackLang = "fr";
+  const currentLanguage = i18n.language ? i18n.language.split('-')[0] : fallbackLang;
+  const baseMapSrc = config.globalIframeSrc[currentLanguage] || config.globalIframeSrc[fallbackLang];
+  const mapSrc = baseMapSrc ? `${baseMapSrc}&hl=${currentLanguage}` : "";
 
   return (
     <footer className="footer">
@@ -56,7 +62,7 @@ const Footer = ({t, pages}) => {
         </div>
 
         <div className="footer-map">
-        <iframe title="Location" src={config.globalIframeSrc} width="400" height="300" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe title="Location" src={mapSrc} width="400" height="300" allowFullScreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           <div className="footer-address">
             {t("footer.address", { returnObjects: true })
               .split("\n")
