@@ -69,6 +69,10 @@
                     {
                         "subtitle": "Lignou",
                         "target": "lignou"
+                    },
+                    {
+                        "subtitle": "Parc PV",
+                        "target": "park"
                     }
                 ]
             },
@@ -135,6 +139,27 @@
                         "Investissement : 13 000 €",
                         "Production attendue : 9 700 kWh/an",
                         "Recettes prévues : 1 500 €/an"
+                        ]
+                    }
+                ]
+            },
+            "feature_section_PA": {
+                "title": "Parc PV",
+                "items": [
+                    {
+                        "subtitle": "Description des installations",
+                        "paragraphs": [
+                            "Exploitation de 3 installations PV distinctes",
+                            "Une puissance globale installée de 81 kWc",
+                            "Une surface totale de 450 m² de capteurs photovoltaïques"
+                        ]
+                    },
+                    {
+                        "subtitle": "Quelques chiffres",
+                        "paragraphs": [
+                            "Investissement total : 103 000 €",
+                            "Production attendue : 90 700 kWh/an",
+                            "Recettes prévues : 11 100 €/an"
                         ]
                     }
                 ]
@@ -335,11 +360,6 @@
                 "source": "Ouest-France"
                 }
             ]
-        },
-        "gallery": {
-            "title": "Galerie",
-            "to": "/gallery",
-            "element": "Gallery"
         },
         "about_us": {
             "title": "Infos & Contact",

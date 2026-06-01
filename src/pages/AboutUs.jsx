@@ -16,7 +16,7 @@ const AboutUs = ({t}) => {
           id={"history"}
           title={feature_section.title}
           items={feature_section.items}
-          image="/images/gallery/photo10.jpg"
+          image="/images/cover/LI_1400.jpg"
           imagePosition='left'
         />
         <div className="generic-separator" />

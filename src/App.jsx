@@ -15,7 +15,6 @@ import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 import Skills from "./pages/Skills";
 import News from "./pages/News";
-import Gallery from "./pages/Gallery";
 import AboutUs from "./pages/AboutUs";
 
 const Maintenance = ({ t, pages }) => {
@@ -72,7 +71,6 @@ const App = () => {
     Projects: Projects,
     Skills: Skills,
     News: News,
-    Gallery: Gallery,
     AboutUs: AboutUs,
   };
 

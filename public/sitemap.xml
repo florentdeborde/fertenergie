@@ -44,12 +44,6 @@
         <priority>0.7</priority>
     </url>
 
-    <!-- Galerie -->
-    <url>
-        <loc>https://fertenergie.fr/gallery</loc>
-        <priority>0.5</priority>
-    </url>
-
     <!-- Infos & Contact -->
     <url>
         <loc>https://fertenergie.fr/about-us</loc>

@@ -1,14 +1,43 @@
+import { useState, useEffect, useMemo } from "react";
 import FeatureSection from '../components/common/sections/Feature/FeatureSection';
+import GallerySection from "../components/common/sections/Gallery/GallerySection";
 import CoverMenu from "../components/common/sections/CoverMenu/CoverMenu";
 
 const Projects = ({t}) => {
     const title = t("pages.projects.title");
     
+    // projects
     const menu_section = t("pages.projects.menu_section", { returnObjects: true });
     const feature_section_intro = t("pages.projects.feature_section_intro", { returnObjects: true });
     const feature_section_PS = t("pages.projects.feature_section_PS", { returnObjects: true });
     const feature_section_JP = t("pages.projects.feature_section_JP", { returnObjects: true });
     const feature_section_LI = t("pages.projects.feature_section_LI", { returnObjects: true });
+    const feature_section_PA = t("pages.projects.feature_section_PA", { returnObjects: true });
+
+    //park
+    const imageCount = 8;
+    const images = Array.from({ length: imageCount }, (_, i) => `/images/gallery/photo${i + 1}.jpg`);    
+    const [selectedIndex, setSelectedIndex] = useState(null);
+    const largeImageIndexes = useMemo(() => {
+      return new Set(Array.from({ length: Math.floor(imageCount / 3) }, () => Math.floor(Math.random() * imageCount)));
+    }, [imageCount]);
+
+    useEffect(() => {
+      const handleKeyDown = (e) => {
+        if (selectedIndex !== null) {
+          if (e.key === "ArrowRight") {
+            setSelectedIndex((prev) => (prev + 1) % images.length);
+          } else if (e.key === "ArrowLeft") {
+            setSelectedIndex((prev) => (prev - 1 + images.length) % images.length);
+          } else if (e.key === "Escape") {
+            setSelectedIndex(null);
+          }
+        }
+      };
+  
+      document.addEventListener("keydown", handleKeyDown);
+      return () => document.removeEventListener("keydown", handleKeyDown);
+    }, [selectedIndex, images.length]);
 
     return (
       <div className="content">
@@ -47,6 +76,16 @@ const Projects = ({t}) => {
           imagePosition='left'
           enableLightbox={true}
         />
+        <div className="generic-separator" />
+        <FeatureSection
+          id="park"
+          title={feature_section_PA.title}
+          items={feature_section_PA.items}
+          image="/images/projects/projects.jpg"
+          imagePosition='left'
+          enableLightbox={true}
+        />
+        <GallerySection images={images} largeImageIndexes={largeImageIndexes} />
       </div>
     );
 }

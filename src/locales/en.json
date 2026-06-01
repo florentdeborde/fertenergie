@@ -69,6 +69,10 @@
                     {
                         "subtitle": "Lignou",
                         "target": "lignou"
+                    },
+                    {
+                        "subtitle": "PV Park",
+                        "target": "park"
                     }
                 ]
             },
@@ -135,6 +139,27 @@
                             "Investment: €13,000",
                             "Expected production: 9,700 kWh/year",
                             "Expected revenue: €1,500/year"
+                        ]
+                    }
+                ]
+            },
+            "feature_section_PA": {
+                "title": "PV Park",
+                "items": [
+                    {
+                        "subtitle": "Installation description",
+                        "paragraphs": [
+                            "Operation of 3 distinct PV installations",
+                            "Total installed capacity of 81 kWp",
+                            "Total surface area of 450 m² of photovoltaic panels"
+                        ]
+                    },
+                    {
+                        "subtitle": "Key figures",
+                        "paragraphs": [
+                            "Total investment: €103,000",
+                            "Expected production: 90,700 kWh/year",
+                            "Estimated revenue: €11,100/year"
                         ]
                     }
                 ]
@@ -334,11 +359,6 @@
                 "source": "Ouest-France"
             }
             ]
-        },
-        "gallery": {
-            "title": "Gallery",
-            "to": "/gallery",
-            "element": "Gallery"
         },
         "about_us": {
             "title": "Info & Contact",
