@@ -216,110 +216,123 @@
             "logo": false,
             "texts": {},
             "posts": [
-                {
-                    "image": "/images/gallery/photo8.jpg",
-                    "title": "Ferténergie Annual General Meeting 2025",
-                    "description": "Held on March 29, 2025 in La Ferté Macé.",
-                    "detailedDescription": "",
-                    "link": "#AGO2025",
-                    "date": "March 30, 2025"
-                },
-                {
-                    "image": "/images/projects/2021-09-05_PS.jpg",
-                    "title": "2024 Production of the Paul Souvray plant",
-                    "description": "In 2024, the plant produced 34,070 kWh of solar electricity.",
-                    "detailedDescription": "",
-                    "link": "#PS2024",
-                    "date": "February 2, 2025"
-                },
-                {
-                    "image": "/images/projects/2023_JP.jpg",
-                    "title": "2024 Production of the Jacques Prévert site",
-                    "description": "The site generated 33,114 kWh in 2024 thanks to solar energy.",
-                    "detailedDescription": "",
-                    "link": "#JP2024",
-                    "date": "January 20, 2025"
-                },
-                {
-                    "image": "/images/projects/2021-03-23_L.jpg",
-                    "title": "2024 Production of the Lignou installation",
-                    "description": "2024 production: 8,380 kWh of photovoltaic electricity.",
-                    "detailedDescription": "",
-                    "link": "#LI2024",
-                    "date": "January 10, 2025"
-                },
-                {
-                    "image": "/images/gallery/photo8.jpg",
-                    "title": "Ferténergie Annual General Meeting 2024",
-                    "description": "Held on June 15, 2024 in La Ferté Macé.",
-                    "detailedDescription": "",
-                    "link": "#AGO2024",
-                    "date": "June 17, 2024"
-                },
-                {
-                    "image": "/images/projects/2021-09-05_PS.jpg",
-                    "title": "2023 Production of the Paul Souvray plant",
-                    "description": "In 2023, the plant produced 39,621 kWh of solar electricity.",
-                    "detailedDescription": "",
-                    "link": "#PS2023",
-                    "date": "February 4, 2024"
-                },
-                {
-                    "image": "/images/projects/2023_JP.jpg",
-                    "title": "2023 Production of the Jacques Prévert site",
-                    "description": "The site generated 38,478 kWh in 2023 thanks to solar energy.",
-                    "detailedDescription": "",
-                    "link": "#JP2023",
-                    "date": "January 26, 2024"
-                },
-                {
-                    "image": "/images/projects/2021-03-23_L.jpg",
-                    "title": "2023 Production of the Lignou installation",
-                    "description": "2023 production: 9,432 kWh of photovoltaic electricity.",
-                    "detailedDescription": "",
-                    "link": "#LI2023",
-                    "date": "January 14, 2024"
-                },
-                {
-                    "image": "/images/gallery/photo8.jpg",
-                    "title": "Ferténergie Annual General Meeting 2023",
-                    "description": "Held on June 10, 2023 in La Ferté Macé.",
-                    "detailedDescription": "",
-                    "link": "#AGO2023",
-                    "date": "June 12, 2023"
-                },
-                {
-                    "image": "/images/projects/2021-09-05_PS.jpg",
-                    "title": "2022 Production of the Paul Souvray plant",
-                    "description": "In 2022, the plant produced 44,348 kWh of solar electricity.",
-                    "detailedDescription": "",
-                    "link": "#PS2022",
-                    "date": "February 1, 2023"
-                },
-                {
-                    "image": "/images/projects/2023_JP.jpg",
-                    "title": "2022 Production of the Jacques Prévert site",
-                    "description": "The site generated 39,756 kWh in 2022 thanks to solar energy.",
-                    "detailedDescription": "",
-                    "link": "#JP2022",
-                    "date": "January 25, 2023"
-                },
-                {
-                    "image": "/images/projects/2021-03-23_L.jpg",
-                    "title": "2022 Production of the Lignou installation",
-                    "description": "2022 production: 10,026 kWh of photovoltaic electricity.",
-                    "detailedDescription": "",
-                    "link": "#LI2022",
-                    "date": "January 12, 2023"
-                },
-                {
-                    "image": "/images/gallery/photo8.jpg",
-                    "title": "Ferténergie Annual General Meeting 2022",
-                    "description": "Held on May 7, 2022 in La Ferté Macé.",
-                    "detailedDescription": "",
-                    "link": "#AGO2022",
-                    "date": "May 9, 2022"
-                }
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1NjM5YmNlY2U0ZDc4NWZlYjUyOTQxOTFiZWM0NGE2Njc?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=08ea7eb8db10cfbafa3ab766dd55dcc1e9ef18b2127e0d871d60f1fd8ca58b2a",
+                "title": "The Ferténergie collective seeks to produce more renewable energy",
+                "description": "On Saturday morning, the Ferténergie citizen collective (a simplified joint-stock company), which has thirty-four shareholders including the city of La Ferté-Macé, held its general assembly at the Paul-Souvray school, in the presence of José Collado, mayor, and Bruno Auvray, vice-president of Flers Agglo, delegate for energy transition.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-le-collectif-fertenergie-cherche-a-produire-plus-denergie-renouvelable-3c6802d6-dc6d-44a9-816e-0c8a186d706a",
+                "date": "May 23, 2026",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyNTAzNWEyNmUyZjUwNTY3Y2NiNzQ5MzYyYTE1NDJlY2E2NjI?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=e21dae2d731b0515009558c3efef37e50e630a322867a6f5acfa52f772ed7285",
+                "title": "Ferténergie's initiatives attract interest from other collectives",
+                "description": "On Saturday, the Ferténergie citizen collective welcomed members of the Synergies collective, which operates in northern Mayenne.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/laction-de-fertenergie-interesse-dautres-collectifs-4f8a7164-aa92-487b-b22d-bd044219cfa6",
+                "date": "March 26, 2025",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyNDA2M2I3MjU1OTljMjFjZjNhZTNmMWM1NGExNGEyNWUwMTU?width=630&height=354&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=24742d222d6414226f187eba98e8cca1eed88c530304b590395f32960b47e366",
+                "title": "The Ferténergie company produces electricity across three sites in La Ferté-Macé",
+                "description": "Sixteen shareholders attended the general assembly of Ferténergie (SAS), based in La Ferté-Macé (Orne), on Saturday, June 15, 2024.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-societe-fertenergie-produit-de-lelectricite-sur-trois-sites-a-la-ferte-mace-40bc079a-2c8f-11ef-94e8-820b9e9c1d0c",
+                "date": "June 19, 2024",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMzExMzU0MDI5YWI4NzE5ZjE3OGUyZjBjOTk1MmZiMGY0YTk?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4306b2388188b567fa18b412e31ac509f3c8a6f362da0738fd40a8c2d021db00",
+                "title": "Ferténergie expands renewable energy development",
+                "description": "Founded in 2017, Ferténergie is a simplified joint-stock company (with shares valued at €105 each) comprising thirty-five partners, dedicated to producing renewable energy across the region.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/fertenergie-developpe-les-energies-renouvelables-985d3667-256c-48d1-b99f-c295a8f40933",
+                "date": "November 14, 2023",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMzA2ZjI3NjdiMjI1YmFjMDJmY2U1MTY0ZDQ5MzNkMWVjZDg?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=e8cc59a66de65164cec2bf1526ad4cea85e57df7a3865d6d446adeb3c73b546c",
+                "title": "The Ferténergie association deploys photovoltaic systems",
+                "description": "On Saturday, the Ferténergie association, a simplified joint-stock company (SAS) with thirty-five members, held its general assembly at the Paul-Souvray school, right in front of the courtyard shelter where solar panels have been installed.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/lassociation-fertenergie-developpe-le-photovoltaique-7139a2c4-2033-4d3e-b8ce-ee69d85728b4",
+                "date": "June 15, 2023",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://static.actu.fr/uploads/2021/04/25135-210414171615782-0-960x640.jpg",
+                "title": "With Ferténergie, the first solar panels are up and running in Couterne",
+                "description": "On Wednesday, April 7, 2021, the first solar panels installed on residential properties with the support of Ferténergie were presented in Lignou de Couterne (Orne).",
+                "detailedDescription": "",
+                "link": "https://actu.fr/normandie/la-ferte-mace_61168/avec-fertenergie-les-premiers-panneaux-photovoltaiques-en-service-a-couterne_41058254.html",
+                "date": "April 15, 2021",
+                "source": "Le Publicateur"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMTA0ZTAzN2ZjYzVhNWE4MGU3YmRhYmQ1OGMzNWRkYjU0M2I?width=630&height=354&focuspoint=51%2C60&cropresize=1&client_id=bpeditorial&sign=5f68b923b6db3be2b891c26ff30578a2b92b36fad3e94ec6df13f7c62ccd46d6",
+                "title": "With Ferténergie, the sun isn't confined to the bocage countryside",
+                "description": "Initiated in 2017, the local and renewable energy production project by Ferténergie (SAS), based in La Ferté-Macé in Orne, has successfully materialized with the installation of 47 m² of south-facing solar panels on a building owned by Catherine and Dominique Dupont, residents of Lignou in Couterne, directly across from the chapel.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-avec-fertenergie-le-soleil-ne-se-confine-pas-dans-le-bocage-c359435a-9941-11eb-b2a7-595c3fffea4c",
+                "date": "April 9, 2021",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMTAxODhmNDQwZGQ3MGRkMDgzODM1M2ZmMTExNjgwNTllZjk?width=630&height=354&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8e39e8cdda78f8c89bc35aed9ad50b969acc000c1bccbc1cf1ad6688971ba4c7",
+                "title": "Ferténergie: first solar panels to be installed as early as April",
+                "description": "On Saturday, about twenty members of the Ferténergie association gathered at the La Ferté-Macé (Orne) town hall to review upcoming solar panel installations and map out the deployment schedule.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-fertenergie-les-premiers-panneaux-photovoltaiques-seront-installes-des-avril-7122972",
+                "date": "January 19, 2021",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMDAyMjRjNzIwNmE3OGI1NTY3ZWZlMWYzMTE4YzI2OTcyYTM?width=630&height=354&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=93671536390af68b6245c1104560d2d7c5eea81f7160d6e16838207c6c2d77a1",
+                "title": "Ferténergie presents its upcoming initiatives to shareholders",
+                "description": "On Wednesday evening, February 12, the managers of Ferténergie (SAS) presented their project to about thirty attendees, including current and prospective shareholders.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-fertenergie-presente-ses-projets-aux-societaires-6739731",
+                "date": "February 16, 2020",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/bdc/MjAyMDAyNTEwMDAxZGIyYzY3MDVlY2U2M2M4NDRlYTViN2U2Mzc?width=220&height=123&fill=0&focuspoint=50%2C50&cropresize=1&client_id=search&sign=3585c6d61bc9185ba23071641e67d486ec229da88a3619ea6d850779731778ed",
+                "title": "Ferténergie: a community project for renewable energy",
+                "description": "Supported by the municipality of La Ferté-Macé (Orne), a citizen group is set to deploy 1,000 m² of photovoltaic panels on public buildings through a newly formed simplified joint-stock company.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/premium/?article_id=f67b6268-4e60-11ea-90b2-c20456b2709d",
+                "date": "February 16, 2020",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://static.actu.fr/uploads/2020/01/25135-200129151045016-0-500x334.jpg",
+                "title": "A public meeting for Ferténergie on Wednesday, February 12 in La Ferté-Macé",
+                "description": "Recently established in La Ferté-Macé (Orne), Ferténergie (SAS) is hosting a public information meeting in the near future to expand its membership.",
+                "detailedDescription": "",
+                "link": "https://actu.fr/normandie/la-ferte-mace_61168/une-reunion-publique-fertenergie-mercredi-12-fevrier-ferte-mace_31109445.html",
+                "date": "February 4, 2020",
+                "source": "Le Publicateur"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMDAxZDZmOTc1YmZiMTExZjljYTY0MTQzODNkM2ZjNjJlMDg?width=220&height=123&fill=0&focuspoint=50%2C25&cropresize=1&client_id=search&sign=9e9c7b460d48122dc8f342d816b316f23b83955a525c7d8403e90e54537fc277",
+                "title": "Ferténergie enters its operational phase",
+                "description": "Come spring, 1,000 m² of solar panels will be installed on the roofs of the municipal restaurant, the Souvray school courtyard shelter, and the Brel middle school gymnasium.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-fertenergie-entre-dans-une-phase-operationnelle-6713895",
+                "date": "January 30, 2020",
+                "source": "Ouest-France"
+            },
+            {
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAxOTEyOGUwM2FhMTM1NjJkYzVjYjkwMDRjZGRhNDdmY2UyNmQ?width=220&height=123&fill=0&focuspoint=50%2C25&cropresize=1&client_id=search&sign=cf6064019cfa3e11b7dc7030530cd885981226816aa189bc974855b4ffff7120",
+                "title": "Ferténergie bets heavily on solar panels",
+                "description": "For several months, a local citizen collective has been working to get Ferténergie up and running in La Ferté-Macé. This company aims to foster cleaner energy by supporting property owners with solar panel installations. Here is a breakdown.",
+                "detailedDescription": "",
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-fertenergie-mise-sur-les-panneaux-solaires-6644010",
+                "date": "December 8, 2019",
+                "source": "Ouest-France"
+            }
             ]
         },
         "gallery": {

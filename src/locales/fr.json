@@ -218,108 +218,121 @@
             "texts": {},
             "posts": [
                 {
-                "image": "/images/gallery/photo8.jpg",
-                "title": "Assemblée Générale Ordinaire de Ferténergie 2025",
-                "description": "Elle a été tenue le 29 mars 2025 à La Ferté Macé.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjA1NjM5YmNlY2U0ZDc4NWZlYjUyOTQxOTFiZWM0NGE2Njc?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=08ea7eb8db10cfbafa3ab766dd55dcc1e9ef18b2127e0d871d60f1fd8ca58b2a",
+                "title": "Le collectif Ferténergie cherche à produire plus d'énergie renouvelable",
+                "description": "Samedi matin, le collectif citoyen Ferténergie (Société à actions simplifiées), qui compte trente-quatre sociétaires dont la ville de La Ferté-Macé, a tenu son assemblée générale à l’école Paul-Souvray, en présence de José Collado, maire, et Bruno Auvray, vice-président de Flers agglo, délégué à la transition énergétique.",
                 "detailedDescription": "",
-                "link": "#AGO2025",
-                "date": "30 mars 2025"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-le-collectif-fertenergie-cherche-a-produire-plus-denergie-renouvelable-3c6802d6-dc6d-44a9-816e-0c8a186d706a",
+                "date": "23 Mai 2026",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/projects/2021-09-05_PS.jpg",
-                "title": "Production 2024 de la centrale Paul Souvray",
-                "description": "En 2024, la centrale a produit 34 070 kWh d’électricité solaire.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyNTAzNWEyNmUyZjUwNTY3Y2NiNzQ5MzYyYTE1NDJlY2E2NjI?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=e21dae2d731b0515009558c3efef37e50e630a322867a6f5acfa52f772ed7285",
+                "title": "L'action de Ferténergie intéresse d'autres collectifs",
+                "description": "Samedi, le collectif citoyen Ferténergie a accueilli des membres du collectif Synergies, qui intervient au nord Mayenne.",
                 "detailedDescription": "",
-                "link": "#PS2024",
-                "date": "02 février 2025"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/laction-de-fertenergie-interesse-dautres-collectifs-4f8a7164-aa92-487b-b22d-bd044219cfa6",
+                "date": "26 Mars 2025",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/projects/2023_JP.jpg",
-                "title": "Production 2024 du site Jacques Prévert",
-                "description": "Le site a généré 33 114 kWh en 2024 grâce à l’énergie solaire.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyNDA2M2I3MjU1OTljMjFjZjNhZTNmMWM1NGExNGEyNWUwMTU?width=630&height=354&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=24742d222d6414226f187eba98e8cca1eed88c530304b590395f32960b47e366",
+                "title": "La société Ferténergie produit de l'électricité sur trois sites à La Ferté-Macé",
+                "description": "Seize actionnaires ont participé à l’assemblée générale de La Société par actions simplifiées (SAS) Ferténergie, dont le siège social est à La Ferté-Macé (Orne), samedi 15 juin 2024.",
                 "detailedDescription": "",
-                "link": "#JP2024",
-                "date": "20 janvier 2025"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-societe-fertenergie-produit-de-lelectricite-sur-trois-sites-a-la-ferte-mace-40bc079a-2c8f-11ef-94e8-820b9e9c1d0c",
+                "date": "19 Juin 2024",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/projects/2021-03-23_L.jpg",
-                "title": "Production 2024 de l'installation à Lignou",
-                "description": "Production 2024 : 8 380 kWh d’électricité issue du photovoltaïque.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMzExMzU0MDI5YWI4NzE5ZjE3OGUyZjBjOTk1MmZiMGY0YTk?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4306b2388188b567fa18b412e31ac509f3c8a6f362da0738fd40a8c2d021db00",
+                "title": "Ferténergie développe les énergies renouvelables",
+                "description": "Créée en 2017, Ferténergie est une société par actions simplifiées (d’une valeur de 105 € chacune), comprenant trente-cinq associés, dont l’objectif est de produire des énergies renouvelables dans le territoire.",
                 "detailedDescription": "",
-                "link": "#LI2024",
-                "date": "10 janvier 2025"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/fertenergie-developpe-les-energies-renouvelables-985d3667-256c-48d1-b99f-c295a8f40933",
+                "date": "14 Novembre 2023",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/gallery/photo8.jpg",
-                "title": "Assemblée Générale Ordinaire de Ferténergie 2024",
-                "description": "Elle a été tenue le 15 juin 2024 à La Ferté Macé.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMzA2ZjI3NjdiMjI1YmFjMDJmY2U1MTY0ZDQ5MzNkMWVjZDg?width=630&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=e8cc59a66de65164cec2bf1526ad4cea85e57df7a3865d6d446adeb3c73b546c",
+                "title": "L'association Ferténergie développe le photovoltaïque",
+                "description": "Samedi, l’association Ferténergie, société par actions simplifiées (SAS), comptant trente-cinq adhérents, a tenu son assemblée générale à l’école Paul-Souvray, devant le préau où des panneaux photovoltaïques sont installés.",
                 "detailedDescription": "",
-                "link": "#AGO2024",
-                "date": "17 juin 2024"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/lassociation-fertenergie-developpe-le-photovoltaique-7139a2c4-2033-4d3e-b8ce-ee69d85728b4",
+                "date": "15 Juin 2023",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/projects/2021-09-05_PS.jpg",
-                "title": "Production 2023 de la centrale Paul Souvray",
-                "description": "En 2023, la centrale a produit 39 621 kWh d’électricité solaire.",
+                "image": "https://static.actu.fr/uploads/2021/04/25135-210414171615782-0-960x640.jpg",
+                "title": "Avec Ferténergie, les premiers panneaux photovoltaïques en service à Couterne",
+                "description": "Mercredi 7 avril 2021 avait lieu à Lignou de Couterne (Orne) la présentation des premiers panneaux photovoltaïques installés chez des particuliers avec le soutien de Ferténergie.",
                 "detailedDescription": "",
-                "link": "#PS2023",
-                "date": "04 février 2024"
+                "link": "https://actu.fr/normandie/la-ferte-mace_61168/avec-fertenergie-les-premiers-panneaux-photovoltaiques-en-service-a-couterne_41058254.html",
+                "date": "15 Avril 2021",
+                "source": "Le Publicateur"
                 },
                 {
-                "image": "/images/projects/2023_JP.jpg",
-                "title": "Production 2023 du site Jacques Prévert",
-                "description": "Le site a généré 38 478 kWh en 2023 grâce à l’énergie solaire.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMTA0ZTAzN2ZjYzVhNWE4MGU3YmRhYmQ1OGMzNWRkYjU0M2I?width=630&height=354&focuspoint=51%2C60&cropresize=1&client_id=bpeditorial&sign=5f68b923b6db3be2b891c26ff30578a2b92b36fad3e94ec6df13f7c62ccd46d6",
+                "title": "Avec Ferténergie, le soleil ne se confine pas dans le bocage",
+                "description": "Le projet de la SAS (Société par actions simplifiées) Ferténergie, basée à La Ferté-Macé dans l’Orne, initié en 2017, pour la production d’énergie locale et renouvelable vient de se concrétiser par la mise en place de 47 m² de panneaux photovoltaïques, orientés au sud, sur un bâtiment appartenant à Catherine et Dominique Dupont, habitants de Lignou en Couterne, juste en face de la chapelle.",
                 "detailedDescription": "",
-                "link": "#JP2023",
-                "date": "26 janvier 2024"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-avec-fertenergie-le-soleil-ne-se-confine-pas-dans-le-bocage-c359435a-9941-11eb-b2a7-595c3fffea4c",
+                "date": "9 Avril 2021",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/projects/2021-03-23_L.jpg",
-                "title": "Production 2023 de l'installation à Lignou",
-                "description": "Production 2023 : 9 432 kWh d’électricité issue du photovoltaïque.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMTAxODhmNDQwZGQ3MGRkMDgzODM1M2ZmMTExNjgwNTllZjk?width=630&height=354&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8e39e8cdda78f8c89bc35aed9ad50b969acc000c1bccbc1cf1ad6688971ba4c7",
+                "title": "Ferténergie : les premiers panneaux photovoltaïques seront installés dès avril",
+                "description": "Samedi, une vingtaine de membres de l’association Ferténergie se sont réunis à la mairie de La Ferté-Macé (Orne) afin de faire le point sur les futures mises en place de panneaux photovoltaïques et envisager le calendrier.",
                 "detailedDescription": "",
-                "link": "#LI2023",
-                "date": "14 janvier 2024"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-fertenergie-les-premiers-panneaux-photovoltaiques-seront-installes-des-avril-7122972",
+                "date": "19 Janvier 2021",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/gallery/photo8.jpg",
-                "title": "Assemblée Générale Ordinaire de Ferténergie 2023",
-                "description": "Elle a été tenue le 10 juin 2023 à La Ferté Macé.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMDAyMjRjNzIwNmE3OGI1NTY3ZWZlMWYzMTE4YzI2OTcyYTM?width=630&height=354&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=93671536390af68b6245c1104560d2d7c5eea81f7160d6e16838207c6c2d77a1",
+                "title": "Ferténergie présente ses projets aux sociétaires",
+                "description": "Mercredi 12 février, au soir, les responsables de la Sas (Société à actions simplifiées) Ferténergie ont présenté leur projet devant une trentaine de personnes (sociétaires ou souhaitant le devenir).",
                 "detailedDescription": "",
-                "link": "#AGO2023",
-                "date": "12 juin 2023"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-fertenergie-presente-ses-projets-aux-societaires-6739731",
+                "date": "16 Février 2020",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/projects/2021-09-05_PS.jpg",
-                "title": "Production 2022 de la centrale Paul Souvray",
-                "description": "En 2022, la centrale a produit 44 348 kWh d’électricité solaire.",
+                "image": "https://media.ouest-france.fr/v1/pictures/bdc/MjAyMDAyNTEwMDAxZGIyYzY3MDVlY2U2M2M4NDRlYTViN2U2Mzc?width=220&height=123&fill=0&focuspoint=50%2C50&cropresize=1&client_id=search&sign=3585c6d61bc9185ba23071641e67d486ec229da88a3619ea6d850779731778ed",
+                "title": "Ferténergie : un projet citoyen pour les énergies renouvelables",
+                "description": "Avec l’appui de la ville de La Ferté-Macé (Orne), un groupe d’habitants va déployer 1 000 m² de panneaux photovoltaïques sur des bâtiments publics grâce à une société par actions simplifiées.",
                 "detailedDescription": "",
-                "link": "#PS2022",
-                "date": "01 février 2023"
+                "link": "https://www.ouest-france.fr/premium/?article_id=f67b6268-4e60-11ea-90b2-c20456b2709d",
+                "date": "16 Février 2020",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/projects/2023_JP.jpg",
-                "title": "Production 2022 du site Jacques Prévert",
-                "description": "Le site a généré 39 756 kWh en 2022 grâce à l’énergie solaire.",
+                "image": "https://static.actu.fr/uploads/2020/01/25135-200129151045016-0-500x334.jpg",
+                "title": "Une réunion publique de Ferténergie mercredi 12 février à La Ferté-Macé",
+                "description": "Récemment constituée à La Ferté-Macé (Orne), la SAS Ferténergie (Société par Action Simplifiée) organise prochainement une réunion publique pour grossir ses rangs.",
                 "detailedDescription": "",
-                "link": "#JP2022",
-                "date": "25 janvier 2023"
+                "link": "https://actu.fr/normandie/la-ferte-mace_61168/une-reunion-publique-fertenergie-mercredi-12-fevrier-ferte-mace_31109445.html",
+                "date": "4 Février 2020",
+                "source": "Le Publicateur"
                 },
                 {
-                "image": "/images/projects/2021-03-23_L.jpg",
-                "title": "Production 2022 de l'installation à Lignou",
-                "description": "Production 2022 : 10 026 kWh d’électricité issue du photovoltaïque.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAyMDAxZDZmOTc1YmZiMTExZjljYTY0MTQzODNkM2ZjNjJlMDg?width=220&height=123&fill=0&focuspoint=50%2C25&cropresize=1&client_id=search&sign=9e9c7b460d48122dc8f342d816b316f23b83955a525c7d8403e90e54537fc277",
+                "title": "Ferténergie entre dans une phase opérationnelle",
+                "description": "1 000 m2 de panneaux photovoltaïques seront installés au printemps sur les toits du restaurant municipal, du préau de l’école Souvray et du gymnase du collège Brel.",
                 "detailedDescription": "",
-                "link": "#LI2022",
-                "date": "12 janvier 2023"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-fertenergie-entre-dans-une-phase-operationnelle-6713895",
+                "date": "30 Janvier 2020",
+                "source": "Ouest-France"
                 },
                 {
-                "image": "/images/gallery/photo8.jpg",
-                "title": "Assemblée Générale Ordinaire de Ferténergie 2022",
-                "description": "Elle a été tenue le 07 mai 2023 à La Ferté Macé.",
+                "image": "https://media.ouest-france.fr/v1/pictures/MjAxOTEyOGUwM2FhMTM1NjJkYzVjYjkwMDRjZGRhNDdmY2UyNmQ?width=220&height=123&fill=0&focuspoint=50%2C25&cropresize=1&client_id=search&sign=cf6064019cfa3e11b7dc7030530cd885981226816aa189bc974855b4ffff7120",
+                "title": "Ferténergie mise sur les panneaux solaires",
+                "description": "Depuis plusieurs mois, un collectif de citoyens œuvre à la mise en route de Ferténergie, à La Ferté-Macé. Cette société veut une énergie plus verte en accompagnant les propriétaires vers l’installation de panneaux solaires. Explications.",
                 "detailedDescription": "",
-                "link": "#AGO2022",
-                "date": "09 mai 2022"
+                "link": "https://www.ouest-france.fr/normandie/la-ferte-mace-61600/la-ferte-mace-fertenergie-mise-sur-les-panneaux-solaires-6644010",
+                "date": "8 Décembre 2019",
+                "source": "Ouest-France"
                 }
             ]
         },
