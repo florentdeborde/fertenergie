@@ -16,11 +16,11 @@ const Projects = ({t}) => {
 
     //park
     const imageCount = 8;
-    const images = Array.from({ length: imageCount }, (_, i) => `/images/gallery/photo${i + 1}.jpg`);    
+    const images = Array.from({ length: imageCount }, (_, i) => `/images/gallery/photo${i + 1}.jpg`);   
     const [selectedIndex, setSelectedIndex] = useState(null);
     const largeImageIndexes = useMemo(() => {
-      return new Set(Array.from({ length: Math.floor(imageCount / 3) }, () => Math.floor(Math.random() * imageCount)));
-    }, [imageCount]);
+      return new Set([4, 5, 6]);
+    }, []);
 
     useEffect(() => {
       const handleKeyDown = (e) => {
