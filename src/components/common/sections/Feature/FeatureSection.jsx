@@ -2,10 +2,10 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './FeatureSection.css';
 
-const FeatureSection = ({ id, title, items, buttonText, buttonLink, buttonTarget, image, imagePosition = 'right', imageSize = 'normal', enableLightbox = false, useAccordion = false }) => {
+const FeatureSection = ({ id, title, items, buttonText, buttonLink, buttonTarget, image, imagePosition = 'right', imageSize = 'normal', enableLightbox = false, useAccordion = false, accordionDefaultOpen = false }) => {
   const hasImage = !!image;
   const isImageLeft = imagePosition === 'left';
-  const [openIndexes, setOpenIndexes] = useState([]);
+  const [openIndexes, setOpenIndexes] = useState(() => accordionDefaultOpen && items ? items.map((_, i) => i) : []);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 
   const toggleAccordion = (index) => {

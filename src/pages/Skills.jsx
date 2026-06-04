@@ -17,6 +17,7 @@ const Skills = ({t}) => {
           title={feature_section_1.title}
           items={feature_section_1.items}
           useAccordion={true}
+          accordionDefaultOpen={true}
         />
         <div className="generic-separator" />
         <FeatureSection
@@ -24,6 +25,7 @@ const Skills = ({t}) => {
           title={feature_section_2.title}
           items={feature_section_2.items}
           useAccordion={true}
+          accordionDefaultOpen={true}
         />
       </div>
     );
